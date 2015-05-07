@@ -1,0 +1,7 @@
+1, savci
+2, ptáci
+3, plazi
+4, ryby
+5, obojživelníci
+6, hmyz
+7, mìkkýši

@@ -1,0 +1,18 @@
+0, animal name 
+1, hair 
+2, feathers 
+3, eggs 
+4, milk 
+5, airborne 
+6, aquatic 
+7, predator 
+8, toothed 
+9, backbone 
+10, breathes 
+11, venomous 
+12, fins 
+13, legs 
+14, tail 
+15, domestic 
+16, catsize 
+17, type	
